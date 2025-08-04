@@ -51,9 +51,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
 
 ---
 
@@ -72,9 +69,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeTranKimHung&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&border_radius=10" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
-</div>
 
 ---
 
@@ -84,9 +78,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeTranKimHung&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="60">
-</div>
 
 ---
 
@@ -110,9 +101,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-</div>
 
 <div align="center">
   
