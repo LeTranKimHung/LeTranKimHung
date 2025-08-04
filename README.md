@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm Hung
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20👋%20I'm%20Hung&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning!" alt="Typing SVG" />
 </div>
-
 <div align="center">
   
   🚀 **Passionate Developer** | 💻 **Code Enthusiast** | 🌟 **Problem Solver**
