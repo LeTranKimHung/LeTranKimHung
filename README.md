@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=👋+Hi+there!+I'm+Hung;🚀+Full+Stack+Developer;💻+Code+Enthusiast;🌟+Problem+Solver;⚡+Always+Learning!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=👋+Hi+there!+I'm+Hung;🚀+Full+Stack+Developer;⚡+Always+Learning!" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  🚀 **Passionate Developer** | 💻 **Code Enthusiast** | 🌟 **Problem Solver**
+  🚀 **Developer** | 💻 **Code Enthusiast** 
   
 </div>
 
@@ -109,10 +109,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
